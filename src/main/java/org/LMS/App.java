@@ -1,10 +1,11 @@
 package org.LMS;
 
+import org.LMS.App;
 import org.LMS.apps.login;
 
 import javax.swing.JOptionPane;
 
-public class Main {
+public class App {
   public static void main(String[] args) {
     String[] opts = { "Login", "Exit" };
 
