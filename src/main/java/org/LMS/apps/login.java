@@ -1,8 +1,7 @@
 package org.LMS.apps;
 
-import org.LMS.displays.userQuery;
-
 import javax.swing.JOptionPane;
+import org.LMS.displays.userQuery;
 
 public class login {
   public void loginUI() {

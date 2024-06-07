@@ -1,7 +1,7 @@
 package org.LMS.displays;
 
-import org.LMS.databases.users;
 import org.LMS.apps.*;
+import org.LMS.databases.users;
 
 public class userQuery {
   users db = new users();
